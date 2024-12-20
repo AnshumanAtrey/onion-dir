@@ -44,4 +44,7 @@ Explore the following Tor links for various resources:
 - [http://tornadox5n4g7apkcr23yqyi66eltomazrfgkljy22ccajywd2jsihid.onion/](http://tornadox5n4g7apkcr23yqyi66eltomazrfgkljy22ccajywd2jsihid.onion/)
 - [http://torgoxsjpmyauymwnsb7fwqodnotjksuph2vd2hjhdncvea2n7a47nyd.onion/](http://torgoxsjpmyauymwnsb7fwqodnotjksuph2vd2hjhdncvea2n7a47nyd.onion/)
 
+##### Communities
+- [http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/)
+- [http://w27irt61daydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/mirrors/?C=N&O=D](http://w27irt61daydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/mirrors/?C=N&O=D)
 > **Note:** Ensure you have a Tor browser installed to access these links safely.
