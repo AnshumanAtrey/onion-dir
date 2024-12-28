@@ -47,4 +47,14 @@ Explore the following Tor links for various resources:
 ##### Communities
 - [http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/)
 - [http://w27irt61daydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/mirrors/?C=N&O=D](http://w27irt61daydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/mirrors/?C=N&O=D)
+
+##### News Sites
+- [https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/)
+- [http://nytimesnd6kemotb65oui6qggooyfsc2gehup57xxvoojpyauevzboid.onion/](http://nytimesnd6kemotb65oui6qggooyfsc2gehup57xxvoojpyauevzboid.onion/)
+- [https://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/en/top-stories/s-9097](https://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/en/top-stories/s-9097)
+- [https://www.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion/](https://www.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion/)
+- [http://5cjzn74dpcafedj4dngccvyvtmo7bgtmzibyurfc7lkff6q7ep4quwad.onion/](http://5cjzn74dpcafedj4dngccvyvtmo7bgtmzibyurfc7lkff6q7ep4quwad.onion/)
+- [http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/](http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/)
+- [https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion/](https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion/)
+- [https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/europe](https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/europe)
 > **Note:** Ensure you have a Tor browser installed to access these links safely.
