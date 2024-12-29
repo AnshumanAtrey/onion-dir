@@ -2,9 +2,10 @@
 
 Here's a concise and well-formatted explanation of how **Tor** works:
 
-### 🌐 **How Tor Browser Works** 
+### 🌐 **How Tor Browser Works**
 
 1. **Connection Process** 🖥️
+
    - **Starting the Browser**: Tor connects to a global network of **volunteer-operated servers** called relays.
    - **Creating a Circuit**:
      - **Guard Node** (Entry Node): Knows your **IP address** but not what you're accessing.
@@ -12,6 +13,7 @@ Here's a concise and well-formatted explanation of how **Tor** works:
      - **Exit Node**: Sends your traffic to the **final destination** (e.g., DuckDuckGo) without knowing your identity.
 
 2. **Data Encryption** 🔒
+
    - **Multi-layer encryption** (like layers of an onion 🧅): Each node only decrypts one layer, ensuring no single node can trace both the source and destination.
 
 3. **Final Destination** 🏁
@@ -20,13 +22,17 @@ Here's a concise and well-formatted explanation of how **Tor** works:
 ⚙️ **In short**: Tor hides your identity by routing your connection through three random nodes and encrypting it, keeping your browsing anonymous!
 
 # Tor Links
+
 Explore the following Tor links for various resources:
+
 ##### Hidden Wikis
-- [http://5wvugn3zqfbianszhldcqz2u7ulj3xex6i3ha3c5znpgdcnqzn24nnid.onion/](http://5wvugn3zqfbianszhldcqz2u7ulj3xex6i3ha3c5znpgdcnqzn24nnid.onion/) 
+
+- [http://5wvugn3zqfbianszhldcqz2u7ulj3xex6i3ha3c5znpgdcnqzn24nnid.onion/](http://5wvugn3zqfbianszhldcqz2u7ulj3xex6i3ha3c5znpgdcnqzn24nnid.onion/)
 - [http://bj5hp4onm4tvpdb5rzf4zsbwoons67jnastvuxefe4s3v7kupjhgh6qd.onion/](http://bj5hp4onm4tvpdb5rzf4zsbwoons67jnastvuxefe4s3v7kupjhgh6qd.onion/)
-- [http://qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion/](http://qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion/) 
+- [http://qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion/](http://qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion/)
 
 ##### Search Engines
+
 - [http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)
 - [http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega](http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega)
 - [http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/)
@@ -45,10 +51,12 @@ Explore the following Tor links for various resources:
 - [http://torgoxsjpmyauymwnsb7fwqodnotjksuph2vd2hjhdncvea2n7a47nyd.onion/](http://torgoxsjpmyauymwnsb7fwqodnotjksuph2vd2hjhdncvea2n7a47nyd.onion/)
 
 ##### Communities
+
 - [http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/)
 - [http://w27irt61daydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/mirrors/?C=N&O=D](http://w27irt61daydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/mirrors/?C=N&O=D)
 
 ##### News Sites
+
 - [https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/)
 - [http://nytimesnd6kemotb65oui6qggooyfsc2gehup57xxvoojpyauevzboid.onion/](http://nytimesnd6kemotb65oui6qggooyfsc2gehup57xxvoojpyauevzboid.onion/)
 - [https://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/en/top-stories/s-9097](https://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/en/top-stories/s-9097)
@@ -57,4 +65,7 @@ Explore the following Tor links for various resources:
 - [http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/](http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/)
 - [https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion/](https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion/)
 - [https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/europe](https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/europe)
+
+##### Financial Services
+
 > **Note:** Ensure you have a Tor browser installed to access these links safely.
