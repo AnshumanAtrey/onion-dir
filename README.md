@@ -68,4 +68,6 @@ Explore the following Tor links for various resources:
 
 ##### Financial Services
 
+##### Personal Sites
+
 > **Note:** Ensure you have a Tor browser installed to access these links safely.
