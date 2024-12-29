@@ -68,6 +68,10 @@ Explore the following Tor links for various resources:
 
 ##### Financial Services
 
-##### Personal Sites
+-[http://cr32aykujaxqkfqyrjvt7lxovnadpgmghtb3y4g6jmx6oomr572kbuqd.onion/](http://cr32aykujaxqkfqyrjvt7lxovnadpgmghtb3y4g6jmx6oomr572kbuqd.onion/)
 
-> **Note:** Ensure you have a Tor browser installed to access these links safely.
+##### Personal Sites/Blogs
+
+- [http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/](http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/)
+
+  > **Note:** Ensure you have a Tor browser installed to access these links safely.
