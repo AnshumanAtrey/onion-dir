@@ -73,5 +73,5 @@ Explore the following Tor links for various resources:
 ##### Personal Sites/Blogs
 
 - [http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/](http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/)
-- 
+  
   > **Note:** Ensure you have a Tor browser installed to access these links safely.
